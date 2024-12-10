@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 //nischitha file
 #include<stdio.h>
 int main()
@@ -22,6 +23,18 @@ int main()
 	}
 	return 0;
 =======
+//Ananth patil file
+#include<stdio.h>
+int main() {
+	int a,b,sum=0;
+	printf("Enter two intergers");
+	scanf("%d %d",&a,&b);
+	sum=a+b;
+	printf("sum:%d",sum);
+	return 0;
+}	
+>>>>>>> 709be4fb819a64a613a69eefc2b3dff7ac831c4c
+=======
 //Prerana's file
 #include<stdio.h>
 int main()
@@ -37,6 +50,7 @@ int main()
 	}
 >>>>>>> 7762e3632b09cd74512e5e0e724f305ea2382674
 }
+>>>>>>> 7762e3632b09cd74512e5e0e724f305ea2382674
 =======
 //this is dixitha file
 #include<stdio.h>
