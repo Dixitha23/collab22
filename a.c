@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //nischitha file
 #include<stdio.h>
 int main()
@@ -20,6 +21,21 @@ int main()
 			printf("%d is prime",n);
 	}
 	return 0;
+=======
+//Prerana's file
+#include<stdio.h>
+int main()
+{
+	int a=5;
+	if(a%2==0)
+	{
+		printf("Even");
+	}
+	else
+	{
+		printf("Odd");
+	}
+>>>>>>> 7762e3632b09cd74512e5e0e724f305ea2382674
 }
 =======
 //this is dixitha file
